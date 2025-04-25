@@ -1,3 +1,5 @@
+package Aninhado;
+
 public class Multiplacao {
     public static void main(String[] args) {
         int base = 5;
